@@ -1,72 +1,215 @@
-# Shriniketan Rao
+<div align="center">
 
-> I build ML systems, stress-test them under real-world constraints, and study how they behave.
+# SHRINIKETAN RAO
 
-I'm a Computer Science student interested in the reliability, evaluation, and engineering of intelligent systems.
+### I build ML systems, break them under real-world constraints, and study why they behave the way they do.
 
-My work sits at the intersection of **machine learning research and engineering** — from studying how LLMs respond to prompt variation, to building ML systems for constrained edge environments, to exploring quantum-classical approaches to scientific problems.
+<br>
 
-I like working on problems where the interesting question isn't just **"Can we build it?"**, but **"How well does it actually behave?"**
+[![GitHub](https://img.shields.io/badge/GitHub-Shriniketan369-181717?style=for-the-badge&logo=github)](https://github.com/Shriniketan369)
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=Shriniketan369&style=for-the-badge)](https://github.com/Shriniketan369)
 
-## 🔬 Currently Working On
-
-### [SybilScope](https://github.com/Shriniketan369/SybilScope)
-
-An Ethereum-based graph analysis system for detecting clusters of potentially coordinated wallets involved in Sybil activity.
-
-**Focus:** Graph Analysis · Ethereum · Anomaly Detection · Machine Learning
+</div>
 
 ---
 
-## 🚀 Selected Work
+## `01 / SYSTEM STATUS`
 
-| Project | What I explored | Focus |
-|---|---|---|
-| **PromptEcho** | Measuring how LLM outputs change under prompt variation | LLM Evaluation · Reliability |
-| **GuardifyX** | ML-based intrusion detection under IoT hardware constraints | Edge AI · Cybersecurity |
-| **QMolPredict** | Quantum-classical ML for molecular property prediction | Quantum ML · Scientific Computing |
-| **Xentinel** | Computer vision for crop disease detection | Computer Vision · Edge Deployment |
+```text
+┌──────────────────────────────────────────────────────┐
+│                  SHRI NIKETAN LABS                   │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  STATUS       :  RESEARCH + BUILD                   │
+│  DOMAIN       :  MACHINE LEARNING                   │
+│  INTERESTS    :  RELIABILITY · SECURITY · SYSTEMS   │
+│  CURRENT      :  SYBILSCOPE                         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+02 / THE QUESTION
 
-→ More projects and experiments are available in my repositories.
+What happens when an ML system leaves the happy path?
 
----
+That's the question behind most of what I build.
 
-## 🧠 Research Interests
+I'm interested in systems that don't just work — but can be measured, stress-tested, understood, and improved when the environment changes.
 
-- **ML Reliability & Evaluation**
-- **LLM Behavior & Robustness**
-- **Machine Learning Systems**
-- **Edge AI & Resource-Constrained ML**
-- **Graph-based Detection**
-- **Quantum Machine Learning**
+My work currently sits around:
 
----
+ML Reliability · AI Security · LLM Evaluation · IoT Systems · Quantum ML
 
-## 🛠️ Technical Stack
+03 / CURRENT EXPERIMENTS
+🔬 PromptEcho
 
-**Languages**  
+LLM Reliability
+
+Studying how much AI model behavior changes when the same intent is expressed through different prompts.
+
+Building an open-source evaluation framework and benchmark around output consistency.
+
+Python LLM Evaluation NLP
+
+🕸️ SybilScope
+
+Blockchain Security
+
+Investigating coordinated wallet behavior in Ethereum airdrops by modeling wallets and transactions as a graph.
+
+Python Ethereum Graph Analysis Cybersecurity
+
+Status: 🚧 Building
+
+🛡️ GuardifyX
+
+IoT Intrusion Detection
+
+Comparing supervised and unsupervised ML approaches for intrusion detection in resource-constrained IoT environments using the BoT-IoT dataset.
+
+Python scikit-learn TensorFlow IoT Security
+
+Status: 🔬 Research Prototype
+
+⚛️ QMolPredict
+
+Quantum × Machine Learning
+
+Exploring a quantum-classical ML pipeline for molecular property prediction.
+
+Python PennyLane Quantum ML
+
+Status: 📚 Research
+
+04 / HOW I WORK
+                         ┌─────────────┐
+                         │    BUILD    │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │   MEASURE   │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │    BREAK    │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │  UNDERSTAND │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │   ITERATE   │
+                         └─────────────┘
+
+I don't just want to know whether a model works.
+
+I want to know:
+
+When does it fail?
+Why does it fail?
+How does it behave under different conditions?
+What can we change to make it better?
+05 / TOOLBOX
+Languages
+
 Python · JavaScript · HTML/CSS · JSX
 
-**ML / AI**  
+Machine Learning
+
 PyTorch · TensorFlow · scikit-learn · PennyLane
 
-**Tools & Engineering**  
+Engineering
+
 Git · GitHub · Flask · Firebase
 
----
+Areas
 
-## 📚 Research
+Machine Learning · NLP · LLM Evaluation · IoT Security · Quantum Computing
 
-My research work includes projects spanning LLM evaluation, IoT security, and quantum-classical machine learning.
+06 / RESEARCH LOG
+2024 ─────────────────────────────────────────────────────► 2026+
 
-- **PromptEcho** — LLM output consistency under prompt variation
-- **GuardifyX** — Real-time intrusion detection for IoT edge devices
-- **QMolPredict** — Quantum-classical ML for molecular property prediction
+        GUARDIFYX
+            │
+            ├── IoT Security
+            ├── ML Intrusion Detection
+            └── Resource Constraints
+                       │
+                       ▼
+                  QMOLPREDICT
+                       │
+                       └── Quantum × ML
+                              │
+                              ▼
+                         PROMPTECHO
+                              │
+                              └── ML Reliability
+                                      │
+                                      ▼
+                                  SYBILSCOPE
+                                      │
+                                      └── Graph-based Security
 
----
+Different problems.
 
-## 🤝 Let's Connect
+Same instinct:
 
-[LinkedIn](YOUR_LINKEDIN) · [GitHub](https://github.com/Shriniketan369)
+Understand the system by pushing it beyond the obvious.
+
+07 / CURRENTLY LEARNING
+DSA
+███████░░░  Building fundamentals
+
+ML SYSTEMS
+██████░░░░  Exploring
+
+LLM EVALUATION
+███████░░░  Researching
+
+CYBERSECURITY
+██████░░░░  Expanding
+
+QUANTUM COMPUTING
+█████░░░░░  Exploring
+08 / GITHUB
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shriniketan369&show_icons=true&hide_border=true&rank_icon=github" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriniketan369&layout=compact&hide_border=true" /> </div>
+09 / WHAT I'M BUILDING TOWARD
+
+I'm interested in the space where machine learning meets real-world constraints.
+
+Not just bigger models.
+
+Not just higher accuracy.
+
+But systems that are:
+
+Reliable.
+
+Interpretable.
+
+Secure.
+
+Efficient.
+
+Useful.
+
+10 / SIGNAL
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  RESEARCH       ████████████████████  ACTIVE    │
+│  BUILDING       ███████████████████░  ACTIVE    │
+│  LEARNING       ██████████████████░░  ACTIVE    │
+│  BREAKING       ████████████████████  ALWAYS    │
+│                                                  │
+└──────────────────────────────────────────────────┘
+<div align="center">
+If something breaks, that's probably where it gets interesting.
+<br>
+
+— Shriniketan Rao
+
+</div> ```
