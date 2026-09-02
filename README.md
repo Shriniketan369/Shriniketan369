@@ -225,25 +225,11 @@ But systems that are:
 
 ---
 
-## `08 — GITHUB`
-
-<div align="center">
-
-<a href="https://github.com/Shriniketan369">
-<img src="https://github-readme-stats.vercel.app/api?username=Shriniketan369&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-</a>
-
-<a href="https://github.com/Shriniketan369">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriniketan369&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
-### If something breaks, that's probably where it gets interesting.
+### Building what I wish existed.
 
 <br>
 
