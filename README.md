@@ -230,6 +230,6 @@ But systems that are:
 
 <br>
 
-**— Shriniketan Rao**
+**- Shriniketan Rao**
 
 </div>
