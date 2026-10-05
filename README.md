@@ -1,216 +1,150 @@
-<div align="center">
-
-# SHRINIKETAN RAO
-
-### Machine Learning • Reliability • Security • Systems
-
-<br>
+# Shriniketan
 
 **I build ML systems, break them under real-world constraints, and study why they behave the way they do.**
 
-<br>
+I work at the intersection of **machine learning, AI reliability, security, and systems engineering** — building things, measuring how they behave, and investigating where they fail.
 
-</div>
-
----
-
-## `01 — THE QUESTION`
-
-> **What happens when an ML system leaves the happy path?**
-
-That's the question behind most of what I build.
-
-I'm interested in systems that don't just **work** — but can be measured, stress-tested, understood, and improved when the environment changes.
-
-**Current focus:** ML Reliability · AI Security · LLM Evaluation · IoT Systems · Quantum ML
+[Email](mailto:shriniketan369@gmail.com)
 
 ---
 
-## `02 — CURRENT EXPERIMENTS`
+## `01 — ABOUT`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm interested in understanding not only whether an ML system works, but **how reliably it works when the conditions change**.
 
-### 🔬 PromptEcho
+My current focus is on:
 
-**LLM Reliability**
+- LLM evaluation and reliability
+- ML systems under real-world constraints
+- AI and cybersecurity
+- Model behavior and robustness
+- Building practical ML systems from research ideas
 
-Studying how much AI model behavior changes when the same intent is expressed through different prompts.
+I enjoy working across the full cycle:
 
-Building an open-source evaluation framework and benchmark around output consistency.
+**Research → Build → Measure → Break → Understand → Iterate**
+
+---
+
+## `02 — CURRENTLY BUILDING`
+
+### PromptEcho
+**LLM Reliability Research**
+
+Studying how much LLM outputs change when the same underlying intent is expressed through different naturalistic developer-style prompts.
+
+Building an open-source evaluation framework and benchmark spanning code-generation and reasoning tasks.
 
 `Python` `LLM Evaluation` `NLP`
 
-</td>
-<td width="50%" valign="top">
+**Status:** Research in progress
 
-### 🕸️ SybilScope
+---
 
-**Blockchain Security**
+### SybilScope
+**Sybil Wallet Cluster Detection**
 
-Investigating coordinated wallet behavior in Ethereum airdrops by modeling wallets and transactions as a graph.
+Building a detection system for identifying coordinated wallet behavior across crypto networks by analyzing relationships between wallets and transactions.
 
-`Python` `Ethereum` `Graph Analysis` `Cybersecurity`
+`Python` `Graph Analysis` `Blockchain` `Cybersecurity`
 
-**Status:** 🚧 Building
+**Status:** Building
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+## `03 — RESEARCH`
 
-### 🛡️ GuardifyX
+### GuardifyX
+**Real-Time Intrusion Detection for IoT Edge Devices**
 
-**IoT Intrusion Detection**
+Compared machine learning approaches for detecting cyberattacks in resource-constrained IoT environments, with an emphasis on balancing detection performance against hardware limitations.
 
-Comparing supervised and unsupervised ML approaches for intrusion detection in resource-constrained IoT environments using the BoT-IoT dataset.
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5368170) · [Zenodo](https://zenodo.org/records/16739029)
 
 `Python` `scikit-learn` `TensorFlow` `IoT Security`
 
-**Status:** 🔬 Research Prototype
+**Status:** Published research
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ⚛️ QMolPredict
+### QMolPredict
+**Quantum-Classical ML for Molecular Property Prediction**
 
-**Quantum × Machine Learning**
+Built a quantum-classical machine learning pipeline for predicting molecular properties across eight molecules using PennyLane.
 
-Exploring a quantum-classical ML pipeline for molecular property prediction.
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5540979) · [Zenodo](https://zenodo.org/records/17219725)
 
 `Python` `PennyLane` `Quantum ML`
 
-**Status:** 📚 Research
-
-</td>
-</tr>
-</table>
+**Status:** Published research
 
 ---
 
-## `03 — HOW I WORK`
+## `04 — PROJECTS`
 
-<div align="center">
+### Mail ForensiX
+**Client-Side Email Phishing Forensics**
 
-**BUILD**  
-↓  
-**MEASURE**  
-↓  
-**BREAK**  
-↓  
-**UNDERSTAND**  
-↓  
-**ITERATE**
+A browser-based email forensics tool combining SPF/DKIM/DMARC checks, header analysis, URL inspection, and an offline Naive Bayes classifier into a single explainable risk assessment.
 
-</div>
+Runs entirely client-side with no backend.
 
-I don't just want to know **whether** a model works.
-
-I want to know:
-
-- **When** does it fail?
-- **Why** does it fail?
-- **How** does it behave under different conditions?
-- **What** can we change to make it better?
+`Python` `JavaScript` `NLP` `Cybersecurity`
 
 ---
 
-## `04 — TOOLBOX`
+### Harvey Decision Framework
+**Structured Reasoning Framework**
 
-<table>
-<tr>
-<td valign="top" width="33%">
+An experimental decision-making framework built around reframing, leverage analysis, strength-based reasoning, and decisive conclusions while explicitly guarding against false certainty and overconfidence.
+
+`Python` `LLM Reasoning` `Decision Systems`
+
+---
+
+## `05 — HOW I WORK`
+
+I prefer understanding systems through experimentation rather than treating models as black boxes.
+
+**Build**  
+Start with a concrete system or hypothesis.
+
+**Measure**  
+Define what success and failure actually mean.
+
+**Break**  
+Test the system under conditions where it might fail.
+
+**Understand**  
+Investigate the causes rather than only observing the outcome.
+
+**Iterate**  
+Use what was learned to improve the system.
+
+---
+
+## `06 — TOOLBOX`
 
 ### Languages
-
-`Python`  
-`JavaScript`  
-`HTML/CSS`  
-`JSX`
-
-</td>
-<td valign="top" width="33%">
+`Python` `JavaScript` `HTML/CSS` `JSX`
 
 ### ML / AI
-
-`PyTorch`  
-`TensorFlow`  
-`scikit-learn`  
-`PennyLane`
-
-</td>
-<td valign="top" width="33%">
+`PyTorch` `TensorFlow` `scikit-learn` `PennyLane`
 
 ### Engineering
+`Git` `GitHub` `Flask` `Firebase`
 
-`Git`  
-`GitHub`  
-`Flask`  
-`Firebase`
-
-</td>
-</tr>
-</table>
-
-### Areas
-
-`Machine Learning` · `NLP` · `LLM Evaluation` · `IoT Security` · `Quantum Computing`
-
----
-
-## `05 — RESEARCH LOG`
-
-```text
-2024 ───────────────────────────────────────────────────────► 2026+
-
-   GUARDIFYX
-       │
-       ├── IoT Security
-       ├── ML Intrusion Detection
-       └── Resource Constraints
-                    │
-                    ▼
-               QMOLPREDICT
-                    │
-                    └── Quantum × ML
-                           │
-                           ▼
-                      PROMPTECHO
-                           │
-                           └── ML Reliability
-                                  │
-                                  ▼
-                              SYBILSCOPE
-                                  │
-                                  └── Graph-based Security
-```
-
-**Different problems. Same instinct:**
-
-> Understand the system by pushing it beyond the obvious.
-
----
-
-## `06 — CURRENTLY LEARNING`
-
-| Area | Status |
-|---|---|
-| **DSA** | ███████░░░ Building fundamentals |
-| **ML Systems** | ██████░░░░ Exploring |
-| **LLM Evaluation** | ███████░░░ Researching |
-| **Cybersecurity** | ██████░░░░ Expanding |
-| **Quantum Computing** | █████░░░░░ Exploring |
+### Focus Areas
+`Machine Learning` · `LLM Evaluation` · `NLP`  
+`AI Security` · `IoT Systems` · `Quantum ML`
 
 ---
 
 ## `07 — WHAT I'M BUILDING TOWARD`
 
-I'm interested in the space where **machine learning meets real-world constraints**.
+I'm interested in the space where machine learning meets real-world constraints.
 
-Not just bigger models.
-
+Not just bigger models.  
 Not just higher accuracy.
 
 But systems that are:
@@ -223,13 +157,17 @@ But systems that are:
 
 ---
 
+## `08 — CURRENTLY LEARNING`
 
-<div align="center">
+- Data structures and algorithms
+- ML systems and evaluation
+- LLM reliability and robustness
+- Software engineering for research
 
-### Building what I wish existed.
+---
 
-<br>
+## `09 — CONNECT`
 
-**- Shriniketan Rao**
+If you're working on problems around **ML reliability, AI systems, evaluation, or security**, feel free to reach out.
 
-</div>
+[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL) · [Resume](YOUR_RESUME)
