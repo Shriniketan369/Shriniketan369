@@ -170,4 +170,4 @@ But systems that are:
 
 If you're working on problems around **ML reliability, AI systems, evaluation, or security**, feel free to reach out.
 
-[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL) · [Resume](YOUR_RESUME)
+[Email](mailto:shriniketan369@gmail.com)
