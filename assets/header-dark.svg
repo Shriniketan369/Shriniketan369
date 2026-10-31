@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Shriniketan Rao Turpu, independent researcher working on LLM evaluation and reliability">
+  <title>Shriniketan Rao Turpu</title>
+  <text x="2" y="98" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="-0.5" fill="#EDF0F7">Shriniketan Rao Turpu</text>
+  <text x="3" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9AA4BC">Independent researcher working on LLM evaluation and reliability.</text>
+  <circle cx="820" cy="100" r="66" fill="none" stroke="#EDF0F7" stroke-width="1.5"/>
+  <line x1="820.0" y1="37.0" x2="820.0" y2="47.0" stroke="#EDF0F7" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="851.5" y1="45.4" x2="849.0" y2="49.8" stroke="#EDF0F7" stroke-width="1" stroke-linecap="round"/>
+  <line x1="874.6" y1="68.5" x2="870.2" y2="71.0" stroke="#EDF0F7" stroke-width="1" stroke-linecap="round"/>
+  <line x1="883.0" y1="100.0" x2="873.0" y2="100.0" stroke="#EDF0F7" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="874.6" y1="131.5" x2="870.2" y2="129.0" stroke="#EDF0F7" stroke-width="1" stroke-linecap="round"/>
+  <line x1="851.5" y1="154.6" x2="849.0" y2="150.2" stroke="#EDF0F7" stroke-width="1" stroke-linecap="round"/>
+  <line x1="820.0" y1="163.0" x2="820.0" y2="153.0" stroke="#EDF0F7" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="788.5" y1="154.6" x2="791.0" y2="150.2" stroke="#EDF0F7" stroke-width="1" stroke-linecap="round"/>
+  <line x1="765.4" y1="131.5" x2="769.8" y2="129.0" stroke="#EDF0F7" stroke-width="1" stroke-linecap="round"/>
+  <line x1="757.0" y1="100.0" x2="767.0" y2="100.0" stroke="#EDF0F7" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="765.4" y1="68.5" x2="769.8" y2="71.0" stroke="#EDF0F7" stroke-width="1" stroke-linecap="round"/>
+  <line x1="788.5" y1="45.4" x2="791.0" y2="49.8" stroke="#EDF0F7" stroke-width="1" stroke-linecap="round"/>
+  <line x1="820" y1="100" x2="795.4" y2="82.8" stroke="#EDF0F7" stroke-width="3" stroke-linecap="round"/>
+  <line x1="820" y1="100" x2="858.1" y2="78.0" stroke="#D9A441" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="820" cy="100" r="3.5" fill="#D9A441"/>
+</svg>
