@@ -1,30 +1,37 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shriniketan369/Shriniketan369/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/Shriniketan369/Shriniketan369/main/assets/header-light.svg" alt="Shriniketan Rao Turpu. Independent researcher working on LLM evaluation and reliability." width="100%">
-</picture>
+<p align="center">
+  <img src="assets/header.svg" alt="Shriniketan Rao. Independent researcher in LLM evaluation and reliability." width="100%">
+</p>
 
-**[Email](mailto:shriniketan369@gmail.com)** &nbsp;/&nbsp; **[Paper](https://github.com/Shriniketan369/PromptEcho)** &nbsp;/&nbsp; **[All repositories](https://github.com/Shriniketan369?tab=repositories)**
+<p align="center">
+  <a href="mailto:shriniketan369@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Shriniketan369?tab=repositories">All repositories</a>
+</p>
 
-&nbsp;
+I study how reliable AI models are. I test them under pressure, because how a model behaves when things get hard tells you more than its score on a clean test.
 
-I study how reliable AI models are. I test them under pressure, because how a model behaves when things get hard tells you more than its score on a clean test. I'm also building Outlooker, a daily brief for founders.
+I start at the University at Buffalo (Honors College, School of Engineering and Applied Sciences) in Spring 2027, and I'm building Outlooker, a daily brief for founders.
 
 ## Featured research
 
-**PromptEcho: what happens when a developer rewords a request to an AI?**
+### PromptEcho: what happens when a developer rewords a request to an AI?
 
 Most studies test this with rewrites that researchers invented. I used the edits developers actually make, like adding background, tightening a constraint, saying "please", or asking for JSON, and measured how much the model's output changed.
 
-Almost all of the change came from edits that added a constraint, where a different answer is the right one. It's a small pilot with two models, so I treat it as early evidence, not a conclusion.
+Almost all of the change came from edits that added a constraint, where a different answer is the right one. It is a small pilot with two models, so I treat it as early evidence, not a conclusion.
 
-**[Read the paper](https://github.com/Shriniketan369/PromptEcho)** &nbsp;/&nbsp; **[Code and data](https://github.com/Shriniketan369/PromptEcho)**
+[Read the paper](REPLACE_WITH_PAPER_LINK) &nbsp;|&nbsp; [Code and data](https://github.com/Shriniketan369/PromptEcho)
 
 ## Other work
 
-- **[GuardifyX](https://github.com/Shriniketan369/GuardifyX):** catching cyberattacks on low-power IoT devices.
-- **[QMolPredict](https://github.com/Shriniketan369/QMolPredict):** predicting molecular energies with a quantum-classical model.
-- **[Xentinel](https://github.com/Shriniketan369/xentinel-crop-disease-ai):** crop disease detection built for rural Indian farmers on slow connections.
-- **Outlooker (in progress):** a short daily brief for founders, written from Gmail and Slack with read-only access.
+| Project | What it does |
+| --- | --- |
+| [GuardifyX](https://github.com/Shriniketan369/GuardifyX) | Catches cyberattacks on low-power IoT devices |
+| [QMolPredict](https://github.com/Shriniketan369/QMolPredict) | Predicts molecular energies with a quantum-classical model |
+| [Xentinel](https://github.com/Shriniketan369/Xentinel) | Detects crop disease for rural Indian farmers on slow connections |
+| [Harvey](https://github.com/Shriniketan369/harvey-decision-framework) | A decision-support and bias-reduction framework, packaged as Claude skill files |
+| [wordscope](https://github.com/Shriniketan369/wordscope) | A text token analyzer |
+| SybilScope | In progress, with a friend. Open-source detection of Sybil wallet clusters on Ethereum |
+| Outlooker | In progress. A short daily brief for founders, written from Gmail and Slack with read-only access |
 
 ## Experience
 
@@ -33,5 +40,3 @@ Almost all of the change came from edits that added a constraint, where a differ
 ## Say hello
 
 I'm open to research collaborations. Email is the best way to reach me: [shriniketan369@gmail.com](mailto:shriniketan369@gmail.com)
-
-> *"I don't have dreams, I have goals."* Harvey Specter
