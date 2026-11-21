@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="48" viewBox="0 0 880 48" role="img" aria-label="Divider">
+  <style>
+    :root { --accent:#0969da; --line:#d1d9e0; }
+    @media (prefers-color-scheme: dark) { :root { --accent:#58a6ff; --line:#30363d; } }
+  </style>
+  <line x1="48" y1="24" x2="832" y2="24" stroke="var(--line)" stroke-width="1"/>
+  <circle cy="24" r="3.5" fill="var(--accent)">
+    <animate attributeName="cx" values="48;832;48" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="9s" repeatCount="indefinite"/>
+  </circle>
+</svg>
